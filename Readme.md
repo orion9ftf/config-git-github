@@ -1,6 +1,12 @@
 ### Git y Github
 
-1.- Primero configuramos nuestro nombre de usuari@ también el email:
+1.- Instalar git (en Linux)
+
+```shell
+$ sudo apt install git
+```
+
+1.1.- Primero configuramos nuestro nombre de usuari@ también el email:
 
 ```shell
 $ git config --global user.name "Tu Nombre"
